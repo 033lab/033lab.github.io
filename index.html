@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Visual Perception and Recognition Laboratory (VPRL)</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  <link rel="stylesheet" href="./assets/styles/style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body data-spy="scroll" data-target="#env-nav" data-offset="300" tabindex="0">
+  <header class="navbar bg-white navbar-expand-lg navbar-light border-bottom shadow-sm-on-scroll sticky-top"
+          style="z-index: 9999;">
+    <div class="container">
+      <a class="navbar-brand" href="#">VPRL</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link active" href="./">
+            <span class="en">About</span>
+            <p class="ja">概要</p>
+          </a>
+          <a class="nav-link" href="./research/">
+            <span class="en">Research</span>
+            <p class="ja">研究分野</p>
+          </a>
+          <a class="nav-link" href="./members/">
+            <span class="en">Members</span>
+            <p class="ja">メンバー</p>
+          </a>
+          <a class="nav-link" href="./access/">
+            <span class="en">Access</span>
+            <p class="ja">アクセス</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main class="container">
+    <div class="row mt-3">
+      <div class="col">
+        <div class="title rounded-xl bg-primary shadow-lg text-light position-relative">
+          <div id="particles-js"></div>
+          <div class="px-5 py-4 position-absolute" style="bottom: 0">
+            <h1>Visual Perception & Recognition Laboratory</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row mt-5 section">
+      <div class="col-12 mb-2">
+        <h2 id="head">
+          <span class="text-gradation d-inline-block">
+            <span class="en">Understand the "Perception" </span>
+            <span class="ja d-md-inline d-block">「知覚」を理解する</span>
+          </span>
+        </h2>
+      </div>
+      <div class="col-md-6">
+        <p>知覚情報処理研究室（小篠研究室，Visual Perception & Recognition Lab.）では，「動物の眼で世界を見てみたい！」，「他人の眼から自分を見てみたい！」，「他人の認識と自分の認識の違いを知りたい！」，「『わかった』ってどういう状態なんだろう？」といった当たり前の日常に潜む，常識・非常識を，機械学習・パターン認識×コンピュータビジョンを用いてモデル化する研究進めています．</p>
+        <p>企業や他大学研究室，学内の他研究室と連携することで，他分野との融合領域研究にも挑戦しています．</p>
+        <p>ディスカッションの時間を大切にすることで，自分自身でアイディアを形にし，世界に発信できる人材の育成を目指します．</p>
+      </div>
+      <div class="col-md-6 text-center">
+        <img class="w-80" src="./assets/imgs/think.svg" alt="" srcset="">
+      </div>
+    </div>
+    <div class="row mt-5 section">
+      <div class="col-12 mb-2">
+        <h2>
+          <span class="text-gradation d-inline-block">
+            <span class="en">Research Topics </span>
+            <span class="ja d-md-inline d-block">研究分野</span>
+          </span>
+        </h2>
+      </div>
+      <div class="col-md-4 mb-4">
+        <div id="topic-0-container" class="rounded-xl transition-all py-3 px-4 h-100">
+          <h3 id="topic-0">
+            <span class="en">Recognition & Understanding</span><br>
+            <span class="ja ml-0">認識と理解</span>
+          </h3>
+          <div class="border-bottom border-primary my-2"></div>
+          <p>
+            画像に写る物や人の分類・検出などのコンピュータビジョンタスクは勿論，画像のみならず，音声や自然言語なども用いてロボットと人とのコミュニケーションの在り方を模索するマルチモーダルインタラクションに関する研究も進めています．
+          </p>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4">
+        <div id="topic-1-container" class="rounded-xl transition-all py-3 px-4 h-100">
+          <h3 id="topic-1">
+            <span class="en">Hyperspectral Analysis </span><br>
+            <span class="ja ml-0">ハイパースペクトル画像認識</span>
+          </h3>
+          <div class="border-bottom border-primary my-2"></div>
+          <p>
+            一般的に広く用いられているRGB画像によるコンピュータービジョン技術では，実現困難であった様々な課題について，100バンド以上の可視光・非可視光情報を取得できるハイパースペクトル画像を利用した解決手法を検討，提案しています．
+          </p>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4">
+        <div id="topic-2-container" class="rounded-xl transition-all py-3 px-4 h-100">
+          <h3 id="topic-2">
+            <span class="en">Augmented Vision </span><br>
+            <span class="ja ml-0">視覚拡張</span>
+          </h3>
+          <div class="border-bottom border-primary my-2"></div>
+          <p>
+            他人の眼で自分を見てみたい，動物の眼で世界を見てみたい．擬似的な視覚拡張や視点変換を可能とするような画像表示技術に関する研究も進めています．超高精細ディスプレイの表示やVirtual Reality技術なども扱っています．
+          </p>
+        </div>
+      </div>
+      <div class="col-12 mb-4 text-center">
+        <a href="" class="btn btn-lg btn-outline-primary hover-shadow">
+          <span class="en">Learn more </span>
+          <span class="ja">詳細を見る</span>
+        </a>
+      </div>
+    </div>
+    <div class="row mt-3 section">
+      <div class="col-12 mb-2">
+        <h2>
+          <span class="text-gradation d-inline-block">
+            <span class="en">Environment</span>
+            <span class="ja d-md-inline d-block">研究室の環境</span>
+          </span>
+        </h2>
+      </div>
+      <div class="col-4 col-md-2">
+        <nav id="env-nav" style="top: 90px;"
+             class="navbar navbar-light sticky-top px-0 px-md-2 normal-md small">
+          <a class="navbar-brand" href="#">Sections</a>
+          <nav class="nav nav-pills flex-column">
+            <a class="nav-link innner-anchor" href="#computers">Computers</a>
+            <a class="nav-link innner-anchor" href="#devices">Devices</a>
+            <a class="nav-link innner-anchor" href="#discussion">Discussion</a>
+            <a class="nav-link innner-anchor" href="#remotely">Remotely</a>
+            <a class="nav-link innner-anchor" href="#desk">Space</a>
+            <a class="nav-link collapse" href="#head"></a>
+            <a class="nav-link collapse" href="#topic-0"></a>
+            <a class="nav-link collapse" href="#topic-1"></a>
+            <a class="nav-link collapse" href="#topic-2"></a>
+            <a class="nav-link collapse" href="#joinus"></a>
+          </nav>
+        </nav>
+      </div>
+      <div class="col-8 col-md-10">
+        <div id="computers-container" class="mb-4 rounded-xl p-4 transition-all">
+          <h3 id="computers">
+            <span class="en">Computational Resources</span>
+            <span class="ja">計算資源</span>
+          </h3>
+          <div class="border-bottom border-primary my-2"></div>
+          <div class="row">
+            <div class="col-md-7">
+              <p>
+                機械学習を用いたコンピュータビジョン研究には高性能なGPUは欠かせません．
+              </p>
+              <p>
+                VPRLではRTX A6000やGTX 3090などの最新の高性能GPUを複数台搭載したワークステーションを複数台所持しています．また，GPU以外にも大量のコアを備える高性能CPUのワークステーションも自由に利用できます．
+              </p>
+            </div>
+            <div class="col-md-5">
+              <img src="./assets/imgs/computer.svg" alt="" class="w-100 px-1 px-md-5 py-2">
+            </div>
+          </div>
+        </div>
+        <div id="devices-container" class="mb-4 rounded-xl p-4 transition-all">
+          <h3 id="devices">
+            <span class="en">Device Resources</span>
+            <span class="ja">センサとカメラ</span>
+          </h3>
+          <div class="border-bottom border-primary my-2"></div>
+          <div class="row">
+            <div class="col-md-7">
+              <p>
+                アクションカメラに，RGBDカメラ，全方位カメラ，近赤外線カメラなど．様々なカメラを複数台ずつ所有しており，様々な画像データ撮影に対応できます．
+              </p>
+              <p>
+                その他，RGBDセンサが搭載された台車ロボットや，超高精細な音声データを録音可能なマイクなどの音声機材や，4Kのヘッドマウントディスプレイなども所有しており，自由度の高い研究も楽しめます．
+              </p>
+            </div>
+            <div class="col-md-5">
+              <img src="./assets/imgs/camera.svg" alt="" class="w-100 px-1 px-md-5 py-2">
+            </div>
+          </div>
+        </div>
+        <div id="discussion-container" class="mb-4 rounded-xl p-4 transition-all">
+          <h3 id="discussion">
+            <span class="en">Discussion-oriented</span>
+            <span class="ja">ディスカッション重視</span>
+          </h3>
+          <div class="border-bottom border-primary my-2"></div>
+          <div class="row">
+            <div class="col-md-7">
+              <p>
+                自分の考えを相手に理解してもらえる形で表現すること，他人の考えを理解し，柔軟に取り入れることは非常に大切です．時に新しいアイディアが湧くこともあります．
+              </p>
+              <p>
+                VPRLではディスカッションを非常に重視しています．研究室内での密なコミュニケーションは勿論，学内外の他研究室との交流活動も積極的に実施しています．
+              </p>
+            </div>
+            <div class="col-md-5">
+              <img src="./assets/imgs/discussion.svg" alt="" class="w-100 px-1 px-md-5 py-2">
+            </div>
+          </div>
+        </div>
+        <div id="remotely-container" class="mb-4 rounded-xl p-4 transition-all">
+          <h3 id="remotely">
+            <span class="en">Remote Research</span>
+            <span class="ja">リモートワーク</span>
+          </h3>
+          <div class="border-bottom border-primary my-2"></div>
+          <div class="row">
+            <div class="col-md-7">
+              <p>
+                研究室に足を運んで研究できるに越したことはありません．ただし，個人や社会的な状況に応じて，研究室に在室しなくても研究を進められる環境を整えています．
+              </p>
+              <p>
+                リモート会議システムを活用したディスカッションや，VPNを介してワークステーションを自宅から利用することもできます．
+              </p>
+            </div>
+            <div class="col-md-5">
+              <img src="./assets/imgs/remote.svg" alt="" class="w-100 px-1 px-md-5 py-2">
+            </div>
+          </div>
+        </div>
+        <div id="desk-container" class="mb-4 rounded-xl p-4 transition-all">
+          <h3 id="desk">
+            <span class="en">Work Space</span>
+            <span class="ja">研究室内装</span>
+          </h3>
+          <div class="border-bottom border-primary my-2"></div>
+          <div class="row">
+            <div class="col-md-7">
+              <p>
+                黒とナチュラルな木目調を基調としたシンプルな家具を揃えています．座席はフリーアドレス制で，気分によって好きな場所で作業することができます．
+              </p>
+            </div>
+            <div class="col-md-5">
+              <img src="./assets/imgs/workspace.svg" alt="" class="w-100 px-1 px-md-5 py-2">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row mt-5 section">
+      <div class="col-12 mb-2">
+        <h2 id="joinus">
+          <span class="text-gradation d-inline-block">
+            <span class="en">Join Us :) </span>
+          </span>
+        </h2>
+      </div>
+      <div class="col-12 mb-4">
+        <div>
+          <div class="row no-gutters">
+            <div class="col-md-6">
+              <div class="py-3 px-4">
+                <p>
+                  興味がある学生の皆さん，ぜひ私たちと一緒に研究しましょう！
+                </p>
+                <div class="col-12 mb-4 text-center">
+                  <a href="" class="btn btn-lg btn-outline-primary hover-shadow">
+                    <span class="en">How to Meet Us</span>
+                    <span class="ja">連絡先・研究室の住所</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div id="joinus-container" class="col-md-6 rounded-xl transition-all">
+              <img src="./assets/imgs/landscape.jpg" alt="" class="w-100 rounded-xl">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer class="container-fluid bg-primary text-light">
+    <div class="container">
+      <div class="row py-5">
+        <div class="col-12">
+          <h3>Visual Perception & Recognition Laboratory</h3>
+        </div>
+        <div class="col-md-6">
+          <ul class="mb-0">
+            <li><a class="text-light" href="./">About</a></li>
+            <li><a class="text-light" href="./research">Research</a></li>
+            <li><a class="text-light" href="./members">Members</a></li>
+            <li><a class="text-light" href="./access">Access</a></li>
+          </ul>
+        </div>
+        <div class="col-md-6 mt-3 align-self-end text-md-right">
+          <small>
+            Copyright© Visual Perception & Recognition Laboratory.
+          </small>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="./assets/libs/particles.js/particles.min.js"></script>
+  <script src="./assets/js/setup-particle.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+          integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="./assets/js/scroll-shadow.js"></script>
+  <script src="./assets/js/scroll-brand-gradation.js"></script>
+  <script src="./assets/js/scrollspy.js"></script>
+  <script src="./assets/js/inner-anchor.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+</body>
+
+</html>
