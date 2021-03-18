@@ -23,4 +23,5 @@ async function appendData(jsonPath, containerId) {
 $(document).ready(async function () {
   await appendData("../assets/data/current-students.json", "research-student-container");
   await appendData("../assets/data/teachers.json", "research-teacher-container");
+  await appendData("../assets/data/collaborators.json", "collaborator-container");
 });
