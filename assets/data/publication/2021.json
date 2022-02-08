@@ -5,12 +5,12 @@
         "title": "Evaluation of Self-Attention Approach in Hyperspectral Single-Pixel Classification",
         "proc": "Proc. of IIEEJ International Conference on Image Electronics and Visual Computing (IEVC 2021), (2021.11).",
         "id": "single-pixel-self-attention",
-        "abstract": "Single-pixel classification aims at classifying a pixel in an image based solely on its pixel values without relying on the surrounding pixels. Since hyperspectral images (HSIs) have many spectral bands for each pixel, HSIs can take ad- vantage of this more than RGB images in single-pixel clas- sification. Most previous methods for single-pixel classifi- cation of HSIs have been proposed with Convolutional Neu- ral Networks (CNNs) or Multi-Layer Perceptron (MLP) in recent years. In this paper, we experiment with applying an attention-based method directly to hyperspectral single- pixel classification. Given a single pixel of HSIs, the at- tention layers can capture the long-range spectrum relation- ships between spectral bands and explain what dependen- cies the model prediction highly rely on. The experimen- tal results indicate that the implemented attention-based ap- proach is comparable to the state-of-the-art method in clas- sification accuracy."
+        "abstract": "Single-pixel classification aims at classifying a pixel in an image based solely on its pixel values without relying on the surrounding pixels. Since hyperspectral images (HSIs) have many spectral bands for each pixel, HSIs can take advantage of this more than RGB images in single-pixel classification. Most previous methods for single-pixel classification of HSIs have been proposed with Convolutional Neural Networks (CNNs) or Multi-Layer Perceptron (MLP) in recent years. In this paper, we experiment with applying an attention-based method directly to hyperspectral single-pixel classification. Given a single pixel of HSIs, the attention layers can capture the long-range spectrum relationships between spectral bands and explain what dependencies the model prediction highly rely on. The experimental results indicate that the implemented attention-based ap- proach is comparable to the state-of-the-art method in classification accuracy."
     },
     {
         "type": "International Conf.",
         "authors": "Tomoya Kaichi and Yuko Ozasa",
-        "title": "A Hyperspectral Approach for Unsupervised Spoof Detection with Intra-Sample Distoribution",
+        "title": "A Hyperspectral Approach for Unsupervised Spoof Detection with Intra-Sample Distribution",
         "proc": "Proc. of IEEE International Conference on Image Processing (ICIP) 2021, (2021.9).",
         "id": "hyper-spoof",
         "abstract": "Despite the high recognition accuracy of recent deep neural networks, they can be easily deceived by spoofing. Spoofs  (e.g., a printed photograph) visually resemble the actual objects quite closely. Thus, we propose a method for spoof detection with a hyperspectral image (HSI) that can effectively  detect differences in surface materials. In contrast to existing anti-spoofing approaches, the proposed method learns the  feature representation for spoof detection without spoof supervision. The informative pixels on an HSI are embedded  onto the feature space, and we identify the spoof from their distribution. As this is the first attempt at unsupervised spoof detection with an HSI, a new dataset that includes spoofs,  named Hyperspectral Spoof Dataset (HSSD), has been developed. The experimental results indicate that the proposed  method performs significantly better than the baselines. The source code and the dataset are available on Github."
@@ -21,7 +21,7 @@
         "title": "Training Data Generation Based on Observation Probability Density for Human Pose Refinement",
         "proc": "Journal of Image and Graphics, 9(2), 50-54,(2021.6).",
         "id": "human-pose-data-gen",
-        "abstract": "Abstract—Human pose estimation is an active research topic since for decades, and it has immediate applications in various tasks such as action understanding. Although accurate pose estimation is an important requirement, joint occlusion and various gestures of a person often result in deviated pose predictions. In this paper, we aim to correct such outliers included in pose estimation results. We propose a method to generate training data which is effective for learning models for outlier correction."
+        "abstract": "Human pose estimation is an active research topic since for decades, and it has immediate applications in various tasks such as action understanding. Although accurate pose estimation is an important requirement, joint occlusion and various gestures of a person often result in deviated pose predictions. In this paper, we aim to correct such outliers included in pose estimation results. We propose a method to generate training data which is effective for learning models for outlier correction."
     },
     {
         "type": "Journal",
@@ -34,7 +34,7 @@
     {
         "type": "Journal",
         "authors": "Tomoya Kaichi, Toshiki Kikuchi, and Yuko Ozasa",
-        "title": "Single-Shot Multi-light-Direction Searching on Discetized Lighting Space",
+        "title": "Single-Shot Multi-light-Direction Searching on Discretized Lighting Space",
         "proc": "SN Computer Science, 2(2), 1-9, (2021.3).",
         "id": "mld",
         "abstract": "Existing methods for light direction estimation solve the problem only by presupposing certain assumptions, e.g., that only one light illuminates the object, the object has a uniform texture or smoothly varying surface, or there is a known object in the scene. However, these methods cannot be used reliably in real-world settings. We propose a framework that can be used in natural settings to estimate multi-light directions from a single image. To tackle this novel and challenging problem, we divide the lighting space into ranges and formulate the estimation problem as a problem of searching the ranges where the light is cast from a multi-illuminant image. We propose a two-step approach. First, we generate single-illuminant images, one of which assumes that there is only light on one range. Next, we select some images from the candidates that could each be a component of a multi-illuminant image under physical constraints. The experimental results demonstrated that the proposed method outperformed the direct-estimation method when the lighting space is fnely divided."
