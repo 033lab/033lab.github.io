@@ -1,8 +1,8 @@
 [
     {
-        "ja": "荒木 佑介",
-        "en": "Yusuke Araki",
-        "img": "yusuke_araki.jpg"
+        "ja": "上坊 瑞希",
+        "en": "Mizuki Uebo",
+        "img": "mizuki_uebo.jpg"
     },
     {
         "ja": "江藤 謙",
@@ -10,14 +10,9 @@
         "img": "ken_eto.jpg"
     },
     {
-        "ja": "林 憲之介",
-        "en": "Kennosuke Hayashi",
-        "img": "kennosuke_hayashi.jpg"
-    },
-    {
-        "ja": "神田 亜門",
-        "en": "Amon Kanda",
-        "img": "amon_kanda.jpg"
+        "ja": "大塚 友理",
+        "en": "Yuri Otsuka",
+        "img": "yuri_otsuka.jpg"
     },
     {
         "ja": "岡田 純京",
@@ -25,9 +20,19 @@
         "img": "junkei_okada.jpg"
     },
     {
-        "ja": "大塚 友理",
-        "en": "Yuri Otsuka",
-        "img": "yuri_otsuka.jpg"
+        "ja": "神田 亜門",
+        "en": "Amon Kanda",
+        "img": "amon_kanda.jpg"
+    },
+    {
+        "ja": "白樫 奈々",
+        "en": "Nana Shirakashi",
+        "img": "nana_shirakashi.jpg"
+    },
+    {
+        "ja": "林 憲之介",
+        "en": "Kennosuke Hayashi",
+        "img": "kennosuke_hayashi.jpg"
     },
     {
         "ja": "山賀 悠司",
@@ -40,38 +45,63 @@
         "img": "shu_yamamoto.jpg"
     },
     {
-        "ja": "河村　健太郎",
+        "ja": "河村 健太郎",
         "en": "Kentaro Kawamura",
         "img": "kentaro_kawamura.jpg"
     },
     {
-        "ja": "黒沼　龍介",
-        "en": "Ryusuke Kuronuma",
-        "img": "ryusuke_kuronuma.jpg"
-    },
-    {
-        "ja": "小林　俊介",
-        "en": "Shunsuke Kobayashi",
-        "img": "shunsuke_kobayashi.jpg"
-    },
-    {
-        "ja": "佐藤　敬汰",
-        "en":  "Keita Satou",
-        "img": "keita_satou.jpg"
-    },
-    {
-        "ja": "杉尾　達也",
-        "en": "Tatsuya Sugio",
-        "img": "tatsuya_sugio.jpg"
-    },
-    {
-        "ja": "鷹野　礼音",
+        "ja": "鷹野 礼音",
         "en": "Reon Takano",
         "img": "reon_takano.jpg"
     },
     {
-        "ja": "手塚　敦貴",
-        "en": "Atsuki Tezuka",
-        "img": "atsuki_tezuka.jpg"
+        "ja": "大山 凛花",
+        "en": "Rinka Oyama",
+        "img": "rinka_oyama.jpg"
+    },
+    {
+        "ja": "金子 拓磨",
+        "en": "Takuma Kaneko",
+        "img": "takuma_kaneko.jpg"
+    },
+    {
+        "ja": "齋藤 光弘",
+        "en": "Mitsuhiro Saito",
+        "img": "mitsuhiro_saito.jpg"
+    },
+    {
+        "ja": "鈴木 幹大",
+        "en": "Mikihiro Suzuki",
+        "img": "mikihiro_suzuki.jpg"
+    },
+    {
+        "ja": "帖地 俊平",
+        "en": "Shunpei Chochi",
+        "img": "shunpei_chochi.jpg"
+    },
+    {
+        "ja": "昇 陽太",
+        "en": "Youta Noboru",
+        "img": "youta_noboru.jpg"
+    },
+    {
+        "ja": "馬淵 優馬",
+        "en": "Yuma Mabuchi",
+        "img": "yuma_mabuchi.jpg"
+    },
+    {
+        "ja": "水田 歩",
+        "en": "Ayumi Mizuta",
+        "img": "ayumi_mizuta.jpg"
+    },
+    {
+        "ja": "安田 瞳",
+        "en": "Hitomi Yasuda",
+        "img": "hitomi_yasuda.jpg"
+    },
+    {
+        "ja": "吉村 健太",
+        "en": "Kenta Yoshimura",
+        "img": "kenta_yoshimura.jpg"
     }
 ]
