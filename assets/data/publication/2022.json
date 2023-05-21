@@ -5,8 +5,7 @@
         "title": "手のハイパースペクトル画像を用いた画素毎分類",
         "proc": "映像情報メディア学会冬季大会，(2022.12)．",
         "id": "hyper-hand-classification",
-        "abstract": "Using Hyperspectral images (HSIs) for pixel-wise classification is so effective that HSIs have many spectral bands in each
-        pixel. In this paper, we evaluate the effectiveness of using HSIs for pixel-wise classification of hands."
+        "abstract": "Using Hyperspectral images (HSIs) for pixel-wise classification is so effective that HSIs have many spectral bands in each pixel. In this paper, we evaluate the effectiveness of using HSIs for pixel-wise classification of hands."
     },
     {
         "type": "Domestic Conf.",
