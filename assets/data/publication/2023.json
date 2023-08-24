@@ -1,6 +1,70 @@
 [
     {
         "type": "Domestic Conf.",
+        "authors": "帖地俊平，小篠裕子",
+        "title": "手画像の画素毎分類におけるハンドクリームの影響",
+        "proc": "情報科学技術フォーラム，(2023.9)．",
+        "id": "hand-cream-fit2023",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "鈴木幹大，小篠裕子",
+        "title": "単一のRGB-Dカメラで撮影した人物と死角領域の点群データ補間",
+        "proc": "情報科学技術フォーラム，(2023.9)．",
+        "id": "point-cloud-interpolation-fit2023",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "河村健太郎，小篠裕子",
+        "title": "ハイパースペクトル画像を用いた手の画素毎分類",
+        "proc": "画像の認識・理解シンポジウム，(2023.7)．",
+        "id": "hyper-hand-classification-miru2023",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "鷹野礼音，小篠裕子",
+        "title": "選択した雰囲気に合わせた空間デザイン",
+        "proc": "画像の認識・理解シンポジウム，(2023.7)．",
+        "id": "space-design-miru2023",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "神田亜門，内川惠二，小篠裕子",
+        "title": "オプティマルカラー仮説に基づく色知覚に個人差が生じる画像生成",
+        "proc": "画像の認識・理解シンポジウム，(2023.7)．",
+        "id": "optimal-color-miru2023",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "Junkei Okada, Yuko Ozasa",
+        "title": "Evaluation of Deep Feature Reconstruction for Hyperspectral Pixel-wise Classification",
+        "proc": "画像の認識・理解シンポジウム，(2023.7)．",
+        "id": "hyper-pixel-wise-miru2023",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "Ken Eto, Yuko Ozasa",
+        "title": "Behavior of out-of-distribution data in image classification with deep learning",
+        "proc": "画像の認識・理解シンポジウム，(2023.7)．",
+        "id": "out-of-distribution-miru2023",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "Nana Shirakashi, Yuko Ozasa",
+        "title": "Classifying Hidden Object by Domain Adaptation",
+        "proc": "画像の認識・理解シンポジウム，(2023.7)．",
+        "id": "hidden-domain-adaptation-miru2023",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
         "authors": "白樫奈々，中野学，小篠裕子",
         "title": "NeRFを用いて表現した三次元空間の点群化",
         "proc": "電子情報通信学会総合大会，(2023.3)．",
