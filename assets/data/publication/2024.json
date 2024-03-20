@@ -1,0 +1,82 @@
+[
+    {
+        "type": "International Conf.",
+        "authors": "Youta Noboru, Yuko Ozasa, and Masayuki Tanaka",
+        "title": "HYPERSPECTRAL IMAGE DATASET FOR INDIVIDUAL PENGUIN IDENTIFICATIO",
+        "proc": "Proc. of 2024 IEEE International Geoscience and Remote Sensing Symposium (IGRASS 2024), (2024.7).",
+        "id": "noboru-igrass2024",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Shu Yamamoto and Yuko Ozasa",
+        "title": "Effect of Dimensionality Reduction on Hyperspectral Image Classification using Multi-Layer Perceptoron",
+        "proc": "Proc. of the 10th IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization (SAMCON2024), (2024.1).",
+        "id": "yamamoto-samcon2024",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Nana Shirakashi and Yuko Ozasa",
+        "title": "Classifying Hidden Object using Hyperspectral Image",
+        "proc": "Proc. of the 10th IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization (SAMCON2024), (2024.1).",
+        "id": "shirakashi-samcon2024",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Junkei Okada and Yuko Ozasa",
+        "title": "Data Augmentation Approach for Pixel-Wise HSI Classification",
+        "proc": "Proc. of the 10th IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization (SAMCON2024), (2024.1).",
+        "id": "okada-samcon2024",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Ken Eto, Yoshihiro Fukuhara, Rei Kawakami, and Yuko Ozasa",
+        "title": "Performance Evaluation of Out-of-Distribution Detection on Various Model Size of Deep Learning Models",
+        "proc": "Proc. of the 10th IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization (SAMCON2024), (2024.1).",
+        "id": "eto-samcon2024",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "安田瞳，鷹野礼音，小篠裕子",
+        "title": "服へのプロジェクションマッピングにおけるマッピング領域抽出に関する考察",
+        "proc": "電子情報通信学会総合大会，(2024.3)．",
+        "id": "yasuda-ieice2024",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "鷹野礼音，馬渕佑真，小篠裕子",
+        "title": "遺伝的アルゴリズムに基づく選択した雰囲気に合わせた空間デザイン",
+        "proc": "電子情報通信学会総合大会，(2024.3)．",
+        "id": "takano-ieice2024",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "昇洋太，小篠裕子",
+        "title": "インスタンス正規化を用いたハイパースペクトル画像の画素毎分類",
+        "proc": "電子情報通信学会総合大会，(2024.3)．",
+        "id": "noboru-ieice2024",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "金子拓磨，岡田純京，小篠裕子",
+        "title": "ハイパースペクトルデータを用いた路面状態分類における汎化性能の評価",
+        "proc": "電子情報通信学会総合大会，(2024.3)．",
+        "id": "kaneko-ieice2024",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Reon Takano and Yuko Ozasa",
+        "title": "Adapting Indoor Scene Design to User-Selected Mood",
+        "proc": "Proc. of 2024 2nd International Conference on Computer Graphics and Image Processing (CGIP 2024), (2024.1).",
+        "id": "takano-cgip2024",
+        "abstract": ""
+    }
+]
