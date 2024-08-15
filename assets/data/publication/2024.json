@@ -1,5 +1,29 @@
 [
     {
+        "type": "Domestic Conf.",
+        "authors": "日向寺拓海，帖地俊平，小篠裕子",
+        "title": "RGB画像から再構築したHS画像を用いた生体認証システム",
+        "proc": "画像の認識・理解シンポジウム，(2024.8)．",
+        "id": "hyugaji-miru2024",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "馬渕佑真，小篠裕子",
+        "title": "個人の視覚特性に合わせた画像強調エージェント",
+        "proc": "画像の認識・理解シンポジウム，(2024.8)．",
+        "id": "mabuchi-miru2024",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "昇洋太，小篠裕子，田中正行",
+        "title": "ハイパースペクトル画像に基づくペンギンの個体識別",
+        "proc": "画像の認識・理解シンポジウム，(2024.8)．",
+        "id": "noboru-miru2024",
+        "abstract": ""
+    },
+    {
         "type": "Journal",
         "authors": "Junkei Okada and Yuko Ozasa",
         "title": "Evaluation of Deep Feature Reconstruction for Pixel-Wise Hyperspectral Image Classification",
