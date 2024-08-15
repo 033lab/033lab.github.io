@@ -1,5 +1,13 @@
 [
     {
+        "type": "Journal",
+        "authors": "Junkei Okada and Yuko Ozasa",
+        "title": "Evaluation of Deep Feature Reconstruction for Pixel-Wise Hyperspectral Image Classification",
+        "proc": "ITE Transactions on Media Technology and Applications, 12(3), 190-196, (2024.7).",
+        "id": "okada-mta2024",
+        "abstract": ""
+    },
+    {
         "type": "International Conf.",
         "authors": "Youta Noboru, Yuko Ozasa, and Masayuki Tanaka",
         "title": "HYPERSPECTRAL IMAGE DATASET FOR INDIVIDUAL PENGUIN IDENTIFICATION",
