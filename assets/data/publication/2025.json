@@ -1,0 +1,50 @@
+[
+    {
+        "type": "Domestic Conf.",
+        "authors": "帖地俊平，昇洋太，小篠裕子",
+        "title": "xxx",
+        "proc": "画像の認識・理解シンポジウム，(2025.8)．",
+        "id": "chochi-miru2025",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "馬渕佑真，小篠裕子",
+        "title": "個人の視覚に最適化した画像強調",
+        "proc": "画像の認識・理解シンポジウム，(2025.8)．",
+        "id": "mabuchi-miru2025",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "昇洋太，小篠裕子，田中正行",
+        "title": "xxx",
+        "proc": "画像の認識・理解シンポジウム，(2025.8)．",
+        "id": "noboru-miru2025",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Yuma Mabuchi and Yuko Ozasa",
+        "title": "Reflectance and Illumination Estimation from An Known Reflectance for Classification",
+        "proc": "Proc. of International Workshop on Frontiers of Computer Vision (FCV 2025), (2025.2).",
+        "id": "mabuchi-fcv2025",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Chochi Shumpei, Yota Noboru and Yuko Ozasa",
+        "title": "Spoofing Detection by Considering Changes in Ambient Light during Biometric Authentication",
+        "proc": "Proc. of International Workshop on Frontiers of Computer Vision (FCV 2025), (2025.2).",
+        "id": "chochi-fcv2025",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Youta Noboru and Yoko Ozasa",
+        "title": "Anomalous Water Dataset Captured by Hyperspectral Cameras",
+        "proc": "Proc. of 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2025), (2025.2).",
+        "id": "noboru-visigrapp2025",
+        "abstract": ""
+    }
+]
