@@ -18,9 +18,17 @@
     {
         "type": "Domestic Conf.",
         "authors": "昇洋太，小篠裕子，田中正行",
-        "title": "xxx",
+        "title": "物体検出のための RGB カメラ感度最適化",
         "proc": "画像の認識・理解シンポジウム，(2025.8)．",
         "id": "noboru-miru2025",
+        "abstract": ""
+    },
+    {
+        "type": "Journal",
+        "authors": "Youta Noboru, Yuko Ozasa and Masayuki Tanaka",
+        "title": "Appearance-and-Spectral-Based Identification System for Penguin Individuals",
+        "proc": "ITE Transactions on Media Technology and Applications, 13(2), 211-220, (2025.4).",
+        "id": "noboru-mta2025",
         "abstract": ""
     },
     {
