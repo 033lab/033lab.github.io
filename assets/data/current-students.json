@@ -1,97 +1,117 @@
 [
     {
-        "ja": "岡田 純京（D1）",
+        "ja": "岡田 純京（D2）",
         "en": "Junkei Okada",
         "img": "junkei_okada.jpg"
     },
     {
-        "ja": "河村 健太郎（M2）",
-        "en": "Kentaro Kawamura",
-        "img": "kentaro_kawamura.jpg"
-    },
-    {
-        "ja": "鷹野 礼音（M2）",
-        "en": "Reon Takano",
-        "img": "reon_takano.jpg"
-    },
-    {
-        "ja": "大山 凜夏（M1）",
+        "ja": "大山 凜夏（M2）",
         "en": "Rinka Oyama",
         "img": "rinka_oyama.jpg"
     },
     {
-        "ja": "金子 拓磨（M1）",
+        "ja": "金子 拓磨（M2）",
         "en": "Takuma Kaneko",
         "img": "takuma_kaneko.jpg"
     },
     {
-        "ja": "齋藤 光宏（M1）",
+        "ja": "齋藤 光宏（M2）",
         "en": "Mitsuhiro Saito",
         "img": "mitsuhiro_saito.jpg"
     },
     {
-        "ja": "鈴木 幹大（M1）",
+        "ja": "鈴木 幹大（M2）",
         "en": "Mikihiro Suzuki",
         "img": "mikihiro_suzuki.jpg"
     },
     {
-        "ja": "帖地 俊平（M1）",
+        "ja": "帖地 俊平（M2）",
         "en": "Shumpei Chochi",
         "img": "shunpei_chochi.jpg"
     },
     {
-        "ja": "昇 洋太（M1）",
+        "ja": "昇 洋太（M2）",
         "en": "Youta Noboru",
         "img": "youta_noboru.jpg"
     },
     {
-        "ja": "馬渕 佑真（M1）",
+        "ja": "馬渕 佑真（M2）",
         "en": "Yuma Mabuchi",
         "img": "yuma_mabuchi.jpg"
     },
     {
-        "ja": "安田 瞳（M1）",
+        "ja": "安田 瞳（M2）",
         "en": "Hitomi Yasuda",
         "img": "hitomi_yasuda.jpg"
     },
     {
-        "ja": "石島 龍哉（B4）",
+        "ja": "石島 龍哉（M1）",
         "en": "Tatsuya Ishizima",
         "img": "Tatsuya_ishizima.jpg"
     },
     {
-        "ja": "小川 敬大（B4）",
+        "ja": "小川 敬大（M1）",
         "en": "Keita Ogawa",
         "img": "keita_ogawa.jpg"
-    },
-    {
-        "ja": "堤 楓花（B4）",
-        "en": "Fuka Tsutsumi",
-        "img": "fuka_tsutsumi.jpg"
-    },
-    {
-        "ja": "秦 豊林（B4）",
-        "en": "Toyoshige Hata",
-        "img": "toyoshige_hata.jpg"
-    },
-    {
-        "ja": "松井 潤（B4）",
-        "en": "Jun Matsui",
-        "img": "jun_matsui.jpg"
-    },
-    {
-        "ja": "山口 湧希太（B4）",
-        "en": "Yukita Yamaguchi",
-        "img": "yukita_yamaguchi.jpg"
-    },
-    {
-        "ja": "ウジャヤ チャーリー（B4）",
-        "en": "Charlie Widjaja",
-        "img": "charlie_widjaja.jpg"
     },
     {
         "ja": "リーマン マイケル（B4）",
         "en": "Michael Liman",
         "img": "michael_liman.jpg"
+    },
+    {
+        "ja": "伊藤 陸（B4）",
+        "en": "Riku Ito",
+        "img": "riku_ito.jpg"
+    },
+    {
+        "ja": "川合 隼輔（B4）",
+        "en": "Shunsuke Kawai",
+        "img": "shunsuke_kawai.jpg"
+    },
+    {
+        "ja": "栗原 明良 （B4）",
+        "en": "Akira Kurihara",
+        "img": "akira_kurihara.jpg"
+    },
+    {
+        "ja": "瑞慶覧 マベリック（B4）",
+        "en": "Zukeran Maverick",
+        "img": "zukeran_maverick.jpg"
+    },
+    {
+        "ja": "髙橋 芹弥（B4）",
+        "en": "Seriya Takahashi",
+        "img": "seriya_takahashi.jpg"
+    },
+    {
+        "ja": "土屋 光輝（B4）",
+        "en": "Mitsuki Tsuchida",
+        "img": "mitsuki_tsuchida.jpg"
+    },
+    {
+        "ja": "寺田 拓未（B4）",
+        "en": "Takumi Terada",
+        "img": "takumi_terada.jpg"
+    },
+    {
+        "ja": "西村 知己（B4）",
+        "en": "Tomoki Nishimura",
+        "img": "tomoki_nishimura.jpg"
+    },
+    {
+        "ja": "野中 悠斗（B4）",
+        "en": "Hisato Nonaka",
+        "img": "hisato_nonaka.jpg"
+    },
+    {
+        "ja": "藤原 了一（B4）",
+        "en": "Ryoichi Fujiwara",
+        "img": "ryoichi_fujiwara.jpg"
+    },
+    {
+        "ja": "渡辺 駿（B4）",
+        "en": "Shun Watanabe",
+        "img": "shun_watanabe.jpg"
     }
 ]
