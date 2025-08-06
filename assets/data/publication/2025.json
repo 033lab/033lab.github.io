@@ -1,8 +1,16 @@
 [
     {
         "type": "Domestic Conf.",
+        "authors": "昇洋太, 小篠裕子, 田中正行",
+        "title": "画像分類のための色変換行列最適化",
+        "proc": "情報科学技術フォーラム，(2025.9)．",
+        "id": "noboru-fit2025",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
         "authors": "帖地俊平，昇洋太，小篠裕子",
-        "title": "xxx",
+        "title": "ハイパースペクトル生体認証時の照明環境に着目した異常検知",
         "proc": "画像の認識・理解シンポジウム，(2025.8)．",
         "id": "chochi-miru2025",
         "abstract": ""
@@ -21,6 +29,14 @@
         "title": "物体検出のための RGB カメラ感度最適化",
         "proc": "画像の認識・理解シンポジウム，(2025.8)．",
         "id": "noboru-miru2025",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "金子拓磨，榎並直子，小篠裕子",
+        "title": "ハイパースペクトルデータに対する分光測光ラベリング",
+        "proc": "画像の認識・理解シンポジウム，(2025.8)．",
+        "id": "kaneko-miru2025",
         "abstract": ""
     },
     {
