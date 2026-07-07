@@ -30,5 +30,13 @@
         "proc": "Proc. of HCI International 2026 - Late Breaking Papers (HCII 2026), (2026.7).",
         "id": "mabuchi-hcii2026",
         "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Ryoichi Fujiwara, Naoko Enami, Takamasa Ogura, and Yuko Ozasa",
+        "title": "Hyperspectral Imaging for Compositional Analysis of Stone Materials",
+        "proc": "Proc. of the 10th International Conference on Graphics and Signal Processing (ICGSP 2026), (2026.6).",
+        "id": "fujiwara-icgsp2026",
+        "abstract": ""
     }
 ]
