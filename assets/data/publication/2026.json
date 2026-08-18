@@ -38,5 +38,37 @@
         "proc": "Proc. of International Conference of Human-Computer Interaction (HCII 2026), (2026.7).",
         "id": "mabuchi-hcii2026",
         "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "馬渕佑真，岩田健司，小篠裕子",
+        "title": "視線特権を用いた強化学習による視覚探索のための個人最適化画像強調",
+        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
+        "id": "mabuchi-miru2026",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "渡辺駿，馬渕佑真，小篠裕子",
+        "title": "個人最適化画像強調を用いた視覚探索VR",
+        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
+        "id": "watanabe-miru2026",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "川合隼輔，馬渕佑真, 小篠裕子",
+        "title": "近赤外線ハイパースペクトル画像の可視化と評価",
+        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
+        "id": "kawai-miru2026",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "藤原了一，榎並直子，小倉聖雅，小篠裕子",
+        "title": "石材の組成計測のためのハイパースペクトルイメージング",
+        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
+        "id": "fujiwara-miru2026",
+        "abstract": ""
     }
 ]
