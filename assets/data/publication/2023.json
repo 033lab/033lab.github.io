@@ -56,6 +56,14 @@
         "abstract": ""
     },
     {
+        "type": "Award",
+        "authors": "Ken Eto, Yuko Ozasa",
+        "title": "MIRUインタラクティブ発表賞（対象発表: Behavior of out-of-distribution data in image classification with deep learning）",
+        "proc": "画像の認識・理解シンポジウム，(2023.7)．",
+        "id": "out-of-distribution-miru2023",
+        "abstract": ""
+    },
+    {
         "type": "Domestic Conf.",
         "authors": "Nana Shirakashi, Yuko Ozasa",
         "title": "Classifying Hidden Object by Domain Adaptation",
