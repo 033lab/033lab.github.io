@@ -92,15 +92,15 @@
         "authors": "川合隼輔",
         "title": "MIRU朝ラン学生奨励賞",
         "proc": "対象発表：近赤外線ハイパースペクトル画像の可視化と評価, 画像の認識・理解シンポジウム，(2026.8)．",
-        "id": "kawai-award-miru2026",
+        "id": "kawai-award-run-student-miru2026",
         "abstract": ""
     },
     {
         "type": "Award",
-        "authors": "川合隼輔，馬渕佑真, 小篠裕子",
+        "authors": "川合隼輔",
         "title": "MIRU朝ラン木村賞",
         "proc": "対象発表：近赤外線ハイパースペクトル画像の可視化と評価, 画像の認識・理解シンポジウム，(2026.8)．",
-        "id": "kawai-award-miru2026",
+        "id": "kawai-award-run-kimura-miru2026",
         "abstract": ""
     }
 ]
