@@ -41,6 +41,14 @@
     },
     {
         "type": "Domestic Conf.",
+        "authors": "昇洋太，小篠裕子，田中正行",
+        "title": "人と機械を対象としたカメラモデルの制約付き最適化",
+        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
+        "id": "noboru-miru2026",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
         "authors": "馬渕佑真，岩田健司，小篠裕子",
         "title": "視線特権を用いた強化学習による視覚探索のための個人最適化画像強調",
         "proc": "画像の認識・理解シンポジウム，(2026.8)．",
@@ -101,6 +109,14 @@
         "title": "MIRU朝ラン木村賞 （対象発表: 近赤外線ハイパースペクトル画像の可視化と評価）",
         "proc": "画像の認識・理解シンポジウム，(2026.8)．",
         "id": "kawai-award-run-kimura-miru2026",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Youta Noboru and Yuko Ozasa",
+        "title": "Visualizing How a Subject Appears to Others via Prompt Design for Face Generation",
+        "proc": "The International Workshop on Frontiers of Computer Vision (FCV 2026), (2026.9).",
+        "id": "noboru-fcv2026",
         "abstract": ""
     }
 ]
