@@ -1,50 +1,34 @@
 [
     {
         "type": "Journal",
-        "authors": "Yuma Mabuchi and Yuko Ozasa",
-        "title": "Personalized Image Enhancement for Visual Search Task",
-        "proc": "IEEE Access, 14, 25456-25465, (2026.1).",
-        "id": "mabuchi-ieeeaccess2026",
-        "abstract": ""
-    },
-    {
-        "type": "International Conf.",
-        "authors": "Youta Noboru, Yuko Ozasa and Masayuki Tanaka",
-        "title": "Joint Optimization of Camera Model and Deep Neural Network for Image Recognition",
-        "proc": "Proc. of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026), 7626-7635, (2026.3). Project Page: https://033labcodes.github.io/wacv26_jointopt_camera_model-project_page/",
-        "id": "noboru-wacv2026",
+        "authors": "依田尊徳，馬渕佑真，小篠裕子",
+        "title": "高機能自閉症児の感情認識・感情表現能力を向上させるVR双六",
+        "proc": "映像情報メディア学会誌，vol. 80，no. 6，pp. 777–787，(2026.11).",
+        "id": "yoda-itej2026",
         "abstract": ""
     },
     {
         "type": "International Conf.",
         "authors": "Youta Noboru and Yuko Ozasa",
-        "title": "Can Video Enhancement Influence Heart Rate Variability?",
-        "proc": "Proc. of The 9th IIEEJ International Conference on Image Electronics and Visual Computing (IEVC 2026), (2026.3).",
-        "id": "noboru-ievc2026",
-        "abstract": ""
-    },
-    {
-        "type": "International Conf.",
-        "authors": "Ryoichi Fujiwara, Naoko Enami, Takamasa Ogura, and Yuko Ozasa",
-        "title": "Hyperspectral Imaging for Compositional Analysis of Stone Materials",
-        "proc": "Proc. of the IEEE International Conference on Graphics and Signal Processing (ICGSP 2026), (2026.6).",
-        "id": "fujiwara-icgsp2026",
-        "abstract": ""
-    },
-    {
-        "type": "International Conf.",
-        "authors": "Yuma Mabuchi, Kenji Iwata, and Yuko Ozasa",
-        "title": "Personalized Image Enhancement for Visual Search via Gaze-Privileged Reinforcement Learning",
-        "proc": "Proc. of International Conference of Human-Computer Interaction (HCII 2026), (2026.7).",
-        "id": "mabuchi-hcii2026",
+        "title": "Visualizing How a Subject Appears to Others via Prompt Design for Face Generation",
+        "proc": "The International Workshop on Frontiers of Computer Vision (FCV 2026), (2026.9).",
+        "id": "noboru-fcv2026",
         "abstract": ""
     },
     {
         "type": "Domestic Conf.",
-        "authors": "昇洋太，小篠裕子，田中正行",
-        "title": "人と機械を対象としたカメラモデルの制約付き最適化",
+        "authors": "藤原了一，榎並直子，小倉聖雅，小篠裕子",
+        "title": "石材の組成計測のためのハイパースペクトルイメージング",
         "proc": "画像の認識・理解シンポジウム，(2026.8)．",
-        "id": "noboru-miru2026",
+        "id": "fujiwara-miru2026",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
+        "authors": "川合隼輔，馬渕佑真，小篠裕子",
+        "title": "近赤外線ハイパースペクトル画像の可視化と評価",
+        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
+        "id": "kawai-miru2026",
         "abstract": ""
     },
     {
@@ -57,6 +41,14 @@
     },
     {
         "type": "Domestic Conf.",
+        "authors": "昇洋太，小篠裕子，田中正行",
+        "title": "人と機械を対象としたカメラモデルの制約付き最適化",
+        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
+        "id": "noboru-miru2026",
+        "abstract": ""
+    },
+    {
+        "type": "Domestic Conf.",
         "authors": "渡辺駿，馬渕佑真，小篠裕子",
         "title": "個人最適化画像強調を用いた視覚探索VR",
         "proc": "画像の認識・理解シンポジウム，(2026.8)．",
@@ -64,19 +56,27 @@
         "abstract": ""
     },
     {
-        "type": "Domestic Conf.",
-        "authors": "川合隼輔，馬渕佑真, 小篠裕子",
-        "title": "近赤外線ハイパースペクトル画像の可視化と評価",
+        "type": "Award",
+        "authors": "川合隼輔，馬渕佑真，小篠裕子",
+        "title": "MIRUインタラクティブ発表賞（対象発表: 近赤外線ハイパースペクトル画像の可視化と評価）",
         "proc": "画像の認識・理解シンポジウム，(2026.8)．",
-        "id": "kawai-miru2026",
+        "id": "kawai-award-miru2026",
         "abstract": ""
     },
     {
-        "type": "Domestic Conf.",
-        "authors": "藤原了一，榎並直子，小倉聖雅，小篠裕子",
-        "title": "石材の組成計測のためのハイパースペクトルイメージング",
+        "type": "Award",
+        "authors": "川合隼輔",
+        "title": "MIRU朝ラン木村賞（対象発表: 近赤外線ハイパースペクトル画像の可視化と評価）",
         "proc": "画像の認識・理解シンポジウム，(2026.8)．",
-        "id": "fujiwara-miru2026",
+        "id": "kawai-award-run-kimura-miru2026",
+        "abstract": ""
+    },
+    {
+        "type": "Award",
+        "authors": "川合隼輔",
+        "title": "MIRU朝ラン学生奨励賞（対象発表: 近赤外線ハイパースペクトル画像の可視化と評価）",
+        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
+        "id": "kawai-award-run-student-miru2026",
         "abstract": ""
     },
     {
@@ -88,35 +88,43 @@
         "abstract": ""
     },
     {
-        "type": "Award",
-        "authors": "川合隼輔，馬渕佑真, 小篠裕子",
-        "title": "MIRUインタラクティブ発表賞（対象発表: 近赤外線ハイパースペクトル画像の可視化と評価）",
-        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
-        "id": "kawai-award-miru2026",
+        "type": "International Conf.",
+        "authors": "Yuma Mabuchi, Kenji Iwata, and Yuko Ozasa",
+        "title": "Personalized Image Enhancement for Visual Search via Gaze-Privileged Reinforcement Learning",
+        "proc": "Proc. of International Conference of Human-Computer Interaction (HCII 2026) – Late Breaking Papers: Part I, Lecture Notes in Computer Science (LNCS), vol. 17357, Springer, (2026), to appear.",
+        "id": "mabuchi-hcii2026",
         "abstract": ""
     },
     {
-        "type": "Award",
-        "authors": "川合隼輔",
-        "title": "MIRU朝ラン学生奨励賞 （対象発表: 近赤外線ハイパースペクトル画像の可視化と評価）",
-        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
-        "id": "kawai-award-run-student-miru2026",
-        "abstract": ""
-    },
-    {
-        "type": "Award",
-        "authors": "川合隼輔",
-        "title": "MIRU朝ラン木村賞 （対象発表: 近赤外線ハイパースペクトル画像の可視化と評価）",
-        "proc": "画像の認識・理解シンポジウム，(2026.8)．",
-        "id": "kawai-award-run-kimura-miru2026",
+        "type": "International Conf.",
+        "authors": "Ryoichi Fujiwara, Naoko Enami, Takamasa Ogura, and Yuko Ozasa",
+        "title": "Hyperspectral Imaging for Compositional Analysis of Stone Materials",
+        "proc": "Proc. of the IEEE International Conference on Graphics and Signal Processing (ICGSP 2026), (2026.6).",
+        "id": "fujiwara-icgsp2026",
         "abstract": ""
     },
     {
         "type": "International Conf.",
         "authors": "Youta Noboru and Yuko Ozasa",
-        "title": "Visualizing How a Subject Appears to Others via Prompt Design for Face Generation",
-        "proc": "The International Workshop on Frontiers of Computer Vision (FCV 2026), (2026.9).",
-        "id": "noboru-fcv2026",
+        "title": "Can Video Enhancement Influence Heart Rate Variability?",
+        "proc": "Proc. of The 9th IIEEJ International Conference on Image Electronics and Visual Computing (IEVC 2026), (2026.3).",
+        "id": "noboru-ievc2026",
+        "abstract": ""
+    },
+    {
+        "type": "International Conf.",
+        "authors": "Youta Noboru, Yuko Ozasa and Masayuki Tanaka",
+        "title": "Joint Optimization of Camera Model and Deep Neural Network for Image Recognition",
+        "proc": "Proc. of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026), 7626-7635, (2026.3). Project Page: https://033labcodes.github.io/wacv26_jointopt_camera_model-project_page/",
+        "id": "noboru-wacv2026",
+        "abstract": ""
+    },
+    {
+        "type": "Journal",
+        "authors": "Yuma Mabuchi and Yuko Ozasa",
+        "title": "Personalized Image Enhancement for Visual Search Task",
+        "proc": "IEEE Access, 14, 25456-25465, (2026.1).",
+        "id": "mabuchi-ieeeaccess2026",
         "abstract": ""
     }
 ]

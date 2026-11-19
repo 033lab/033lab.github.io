@@ -1,7 +1,7 @@
 [
     {
         "type": "Domestic Conf.",
-        "authors": "昇洋太, 小篠裕子, 田中正行",
+        "authors": "昇洋太，小篠裕子，田中正行",
         "title": "画像分類のための色変換行列最適化",
         "proc": "情報科学技術フォーラム，(2025.9)．",
         "id": "noboru-fit2025",
@@ -58,22 +58,22 @@
     {
         "type": "International Conf.",
         "authors": "Yuma Mabuchi, Takuma Kaneko and Yuko Ozasa",
-        "title": "Reflectance and Illumination Estimation from An Known Reflectance for Classification",
-        "proc": "Proc. of International Workshop on Frontiers of Computer Vision (FCV 2025), (2025.2).",
+        "title": "Reflectance and Illumination Estimation from a Known Reflectance for Classification",
+        "proc": "Proc. of Frontiers of Computer Vision (IW-FCV 2025), Communications in Computer and Information Science, vol. 2769, pp. 156–168, Springer, (2026).",
         "id": "mabuchi-fcv2025",
         "abstract": ""
     },
     {
         "type": "International Conf.",
-        "authors": "Chochi Shumpei, Yota Noboru and Yuko Ozasa",
-        "title": "Spoofing Detection by Considering Changes in Ambient Light during Biometric Authentication",
-        "proc": "Proc. of International Workshop on Frontiers of Computer Vision (FCV 2025), (2025.2).",
+        "authors": "Shumpei Chochi, Youta Noboru, and Yuko Ozasa",
+        "title": "Lighting Condition Discrimination Based on Hyperspectral Images",
+        "proc": "Proc. of Frontiers of Computer Vision (IW-FCV 2025), Communications in Computer and Information Science, vol. 2769, pp. 148–155, Springer, (2026).",
         "id": "chochi-fcv2025",
         "abstract": ""
     },
     {
         "type": "International Conf.",
-        "authors": "Youta Noboru and Yoko Ozasa",
+        "authors": "Youta Noboru and Yuko Ozasa",
         "title": "Anomalous Water Dataset Captured by Hyperspectral Cameras",
         "proc": "Proc. of 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2025), (2025.2).",
         "id": "noboru-visigrapp2025",
